@@ -22,7 +22,7 @@ powershell -c "irm https://raw.githubusercontent.com/hugobastoss/toolbox-win/mai
 **Atalho para deixar mais rápido:** salve a linha acima como uma função no seu perfil do PowerShell (`$PROFILE`) nas máquinas que você usa com frequência:
 
 ```powershell
-function toolbox { irm https://raw.githubusercontent.com/hugobastoss/toolbox-win/main/ToolboxTecnico.ps1 | iex }
+function toolbox { irm https://raw.githubusercontent.com/hugobastoss/toolbox-win/main/toolbox-win.ps1 | iex }
 ```
 
 Depois é só digitar `toolbox` no terminal.
