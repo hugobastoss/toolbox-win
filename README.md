@@ -1,6 +1,6 @@
 # Toolbox do Técnico — Atalhos Rápidos (Win+R / PowerShell)
 
-Coleção de comandos administrativos do Windows organizados por categoria, mais um script (`ToolboxTecnico.ps1`) que reúne tudo em uma interface gráfica simples, executável direto do GitHub.
+Coleção de comandos administrativos do Windows organizados por categoria, mais um script (`toolbox-win.ps1`) que reúne tudo em uma interface gráfica simples, executável direto do GitHub.
 
 ---
 
@@ -11,7 +11,7 @@ Repositório: [hugobastoss/toolbox-win](https://github.com/hugobastoss/toolbox-w
 Basta rodar o comando abaixo no **Win+R** ou em qualquer terminal:
 
 ```powershell
-powershell -c "irm https://raw.githubusercontent.com/hugobastoss/toolbox-win/main/ToolboxTecnico.ps1 | iex"
+powershell -c "irm https://raw.githubusercontent.com/hugobastoss/toolbox-win/main/toolbox-win.ps1 | iex"
 ```
 
 **O que acontece:**
